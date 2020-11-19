@@ -3754,6 +3754,25 @@
     ],
     "timestamp": "Dec/27/2021 21:41"
   },
+  "CF98942756": {
+    "contest_id": 1452,
+    "language": "GNU C++14",
+    "path": "codeforces\\1452\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Toy Blocks",
+    "problem_url": "https://codeforces.com/contest/1452/problem/B",
+    "submission_id": "CF98942756",
+    "submission_url": "https://codeforces.com/contest/1452/submission/98942756",
+    "tags": [
+      "binary search",
+      "greedy",
+      "math",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "Nov/19/2020 21:53"
+  },
   "CF99032317": {
     "contest_id": 1147,
     "language": "GNU C++14",
