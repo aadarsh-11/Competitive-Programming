@@ -3754,6 +3754,22 @@
     ],
     "timestamp": "Dec/27/2021 21:41"
   },
+  "CF99032317": {
+    "contest_id": 1147,
+    "language": "GNU C++14",
+    "path": "codeforces\\1147\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Thanos Nim",
+    "problem_url": "https://codeforces.com/contest/1147/problem/C",
+    "submission_id": "CF99032317",
+    "submission_url": "https://codeforces.com/contest/1147/submission/99032317",
+    "tags": [
+      "games",
+      "*2000"
+    ],
+    "timestamp": "Nov/20/2020 18:39"
+  },
   "CF99411539": {
     "contest_id": 1454,
     "language": "GNU C++14",
