@@ -367,6 +367,23 @@
     ],
     "timestamp": "Nov/18/2021 11:06"
   },
+  "CF102610692": {
+    "contest_id": 1469,
+    "language": "GNU C++14",
+    "path": "codeforces\\1469\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Regular Bracket Sequence",
+    "problem_url": "https://codeforces.com/contest/1469/problem/A",
+    "submission_id": "CF102610692",
+    "submission_url": "https://codeforces.com/contest/1469/submission/102610692",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "*1000"
+    ],
+    "timestamp": "Dec/28/2020 21:38"
+  },
   "CF103397603": {
     "contest_id": 1471,
     "language": "GNU C++14",
