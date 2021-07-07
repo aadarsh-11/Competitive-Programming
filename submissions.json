@@ -1,4 +1,22 @@
 {
+  "CF121586501": {
+    "contest_id": 1543,
+    "language": "GNU C++17",
+    "path": "codeforces\\1543\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Customising the Track",
+    "problem_url": "https://codeforces.com/contest/1543/problem/B",
+    "submission_id": "CF121586501",
+    "submission_url": "https://codeforces.com/contest/1543/submission/121586501",
+    "tags": [
+      "combinatorics",
+      "greedy",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Jul/07/2021 20:22"
+  },
   "CF121687840": {
     "contest_id": 1543,
     "language": "GNU C++17",
