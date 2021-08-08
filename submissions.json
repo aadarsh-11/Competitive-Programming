@@ -95,6 +95,22 @@
     ],
     "timestamp": "Jul/10/2021 18:09"
   },
+  "AC24884799": {
+    "contest_id": "abc213",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc213\\D.cpp",
+    "platform": "AtCoder",
+    "problem_index": "D",
+    "problem_name": "Takahashi Tour",
+    "problem_url": "https://atcoder.jp/contests/abc213/tasks/abc213_d",
+    "submission_id": "AC24884799",
+    "submission_url": "https://atcoder.jp/contests/abc213/submissions/24884799",
+    "tags": [
+      "AtCoder",
+      "*400"
+    ],
+    "timestamp": "Aug/08/2021 18:43"
+  },
   "AC25023708": {
     "contest_id": "abc214",
     "language": "C++ (GCC 9.2.1)",
