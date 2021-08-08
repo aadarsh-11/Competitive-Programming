@@ -95,6 +95,22 @@
     ],
     "timestamp": "Jul/10/2021 18:09"
   },
+  "AC24871452": {
+    "contest_id": "abc213",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc213\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Reorder Cards",
+    "problem_url": "https://atcoder.jp/contests/abc213/tasks/abc213_c",
+    "submission_id": "AC24871452",
+    "submission_url": "https://atcoder.jp/contests/abc213/submissions/24871452",
+    "tags": [
+      "AtCoder",
+      "*300"
+    ],
+    "timestamp": "Aug/08/2021 17:57"
+  },
   "AC24884799": {
     "contest_id": "abc213",
     "language": "C++ (GCC 9.2.1)",
