@@ -95,6 +95,22 @@
     ],
     "timestamp": "Jul/10/2021 18:09"
   },
+  "AC25027428": {
+    "contest_id": "abc214",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc214\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "How many?",
+    "problem_url": "https://atcoder.jp/contests/abc214/tasks/abc214_b",
+    "submission_id": "AC25027428",
+    "submission_url": "https://atcoder.jp/contests/abc214/submissions/25027428",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Aug/14/2021 17:38"
+  },
   "AC25036535": {
     "contest_id": "abc214",
     "language": "C++ (GCC 9.2.1)",
