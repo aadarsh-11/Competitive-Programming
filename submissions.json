@@ -1633,5 +1633,21 @@
       "*1100"
     ],
     "timestamp": "Aug/09/2021 20:27"
+  },
+  "CF127109874": {
+    "contest_id": 1562,
+    "language": "GNU C++17",
+    "path": "codeforces\\1562\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Rings",
+    "problem_url": "https://codeforces.com/contest/1562/problem/C",
+    "submission_id": "CF127109874",
+    "submission_url": "https://codeforces.com/contest/1562/submission/127109874",
+    "tags": [
+      "constructive algorithms",
+      "math"
+    ],
+    "timestamp": "Aug/26/2021 21:38"
   }
 }
