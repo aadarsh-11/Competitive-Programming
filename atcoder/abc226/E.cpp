@@ -23,7 +23,6 @@ typedef vector<pll> vpll;
 typedef vector<vi> vvi;
 typedef vector<vl> vvl;
 #define all(x) x.begin(), x.end()
-#define rall(x) x.rbegin(), x.rend()
 #define clr(x) memset(x, 0, sizeof(x))
 #define tr(it, a) for(auto it = a.begin(); it != a.end(); it++)
 #define deb(x) cout << #x << "=" << x << endl
@@ -37,35 +36,35 @@ ll sub(ll x, ll y) {ll res = x - y; return (res < 0 ? res + mod : res);}
 ll mul(ll x, ll y) {ll res = x * y; return (res >= mod ? res % mod : res);}
 ll lcm(ll x, ll y) {ll res = (x * y) / __gcd(x, y); return res;}
 
-int dfs(vvi &gr, int i , int &edges, vi &vis )
+int dfs(vvi &gr, int i, int &edges, vi &vis )
 {
     vis[i] = 1;
     edges += gr[i].size();
-    int nodes = 1;
- 
+    int node = 1;
+
     for(auto &v:gr[i])
     {
         if(!vis[v])
-            nodes += dfs(gr, v, edges, vis);
+            node += dfs(gr, v, edges, vis);
     }
-    return nodes;
+    return node;
 }
 
 int main()
 {
-// #ifndef ONLINE_JUDGE
-//     freopen("D:/CODING/C++/Sublime Text/input.txt", "r", stdin);
-//     freopen("D:/CODING/C++/Sublime Text/output.txt", "w", stdout);
-// #endif
-
-    boost;
+    // #ifndef ONLINE_JUDGE
+    // freopen("input.txt", "r", stdin);
+    // freopen("output.txt", "w", stdout);
+    // #endif
+    ios_base::sync_with_stdio(false);
+    cin.tie(0);
 
     int n = 0, m = 0;
 
     //-----------------------------------------------------//
 
     cin>>n>>m;
-    vvi gr(n,vi());
+    vvi gr(n);
     fo(i,m)
     {
         int u,v;
@@ -74,10 +73,10 @@ int main()
         gr[u].pb(v);
         gr[v].pb(u);
     }
- 
+
     int ans = 1;
     vi vis(n,0);
- 
+
     fo(i,n)
     {
         if(!vis[i])
