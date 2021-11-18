@@ -53,10 +53,10 @@ int dfs(vvi &gr, int i , int &edges, vi &vis )
 
 int main()
 {
-#ifndef ONLINE_JUDGE
-    freopen("D:/CODING/C++/Sublime Text/input.txt", "r", stdin);
-    freopen("D:/CODING/C++/Sublime Text/output.txt", "w", stdout);
-#endif
+// #ifndef ONLINE_JUDGE
+//     freopen("D:/CODING/C++/Sublime Text/input.txt", "r", stdin);
+//     freopen("D:/CODING/C++/Sublime Text/output.txt", "w", stdout);
+// #endif
 
     boost;
 
