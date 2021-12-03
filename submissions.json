@@ -367,6 +367,22 @@
     ],
     "timestamp": "Nov/18/2021 11:06"
   },
+  "AC27655544": {
+    "contest_id": "abc230",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\abc230\\B.cpp",
+    "platform": "AtCoder",
+    "problem_index": "B",
+    "problem_name": "Triple Metre",
+    "problem_url": "https://atcoder.jp/contests/abc230/tasks/abc230_b",
+    "submission_id": "AC27655544",
+    "submission_url": "https://atcoder.jp/contests/abc230/submissions/27655544",
+    "tags": [
+      "AtCoder",
+      "*200"
+    ],
+    "timestamp": "Dec/03/2021 17:50"
+  },
   "AC27665027": {
     "contest_id": "abc230",
     "language": "C++ (GCC 9.2.1)",
