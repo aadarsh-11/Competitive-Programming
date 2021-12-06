@@ -367,6 +367,22 @@
     ],
     "timestamp": "Nov/18/2021 11:06"
   },
+  "AC27734620": {
+    "contest_id": "arc131",
+    "language": "C++ (GCC 9.2.1)",
+    "path": "atcoder\\arc131\\C.cpp",
+    "platform": "AtCoder",
+    "problem_index": "C",
+    "problem_name": "Zero XOR",
+    "problem_url": "https://atcoder.jp/contests/arc131/tasks/arc131_c",
+    "submission_id": "AC27734620",
+    "submission_url": "https://atcoder.jp/contests/arc131/submissions/27734620",
+    "tags": [
+      "AtCoder",
+      "*600"
+    ],
+    "timestamp": "Dec/06/2021 12:33"
+  },
   "AC28171532": {
     "contest_id": "arc132",
     "language": "C++ (GCC 9.2.1)",
