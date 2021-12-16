@@ -2837,6 +2837,25 @@
     ],
     "timestamp": "Nov/23/2021 20:32"
   },
+  "CF139507830": {
+    "contest_id": 1617,
+    "language": "GNU C++17",
+    "path": "codeforces\\1617\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "GCD Problem",
+    "problem_url": "https://codeforces.com/contest/1617/problem/B",
+    "submission_id": "CF139507830",
+    "submission_url": "https://codeforces.com/contest/1617/submission/139507830",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "math",
+      "number theory",
+      "*900"
+    ],
+    "timestamp": "Dec/16/2021 19:44"
+  },
   "CF139524758": {
     "contest_id": 1617,
     "language": "GNU C++17",
