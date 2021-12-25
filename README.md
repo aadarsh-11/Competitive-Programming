@@ -12,9 +12,10 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-164 | [C - Set or Decrease](https://codeforces.com/contest/1622/problem/C) | [GNU C++17](./codeforces/1622/C.cpp) | `binary search` `brute force` `greedy` | Dec/27/2021 21:41 | 
-163 | [B - Berland Music](https://codeforces.com/contest/1622/problem/B) | [GNU C++17](./codeforces/1622/B.cpp) | `greedy` `math` `sortings` | Dec/27/2021 20:31 | 
-162 | [A - Construct a Rectangle](https://codeforces.com/contest/1622/problem/A) | [GNU C++17](./codeforces/1622/A.cpp) | `math` | Dec/27/2021 20:11 | 
+165 | [C - Set or Decrease](https://codeforces.com/contest/1622/problem/C) | [GNU C++17](./codeforces/1622/C.cpp) | `binary search` `brute force` `greedy` | Dec/27/2021 21:41 | 
+164 | [B - Berland Music](https://codeforces.com/contest/1622/problem/B) | [GNU C++17](./codeforces/1622/B.cpp) | `greedy` `math` `sortings` | Dec/27/2021 20:31 | 
+163 | [A - Construct a Rectangle](https://codeforces.com/contest/1622/problem/A) | [GNU C++17](./codeforces/1622/A.cpp) | `math` | Dec/27/2021 20:11 | 
+162 | [B - And It's Non-Zero](https://codeforces.com/contest/1615/problem/B) | [GNU C++17](./codeforces/1615/B.cpp) | `bitmasks` `greedy` `math` `*1300` | Dec/25/2021 19:51 | 
 161 | [B - Kalindrome Array](https://codeforces.com/contest/1610/problem/B) | [GNU C++17](./codeforces/1610/B.cpp) | `greedy` `two pointers` `*1100` | Nov/23/2021 20:32 | 
 160 | [A - Anti Light's Cell Guessing](https://codeforces.com/contest/1610/problem/A) | [GNU C++17](./codeforces/1610/A.cpp) | `math` `*900` | Nov/23/2021 20:19 | 
 159 | [C - Chat Ban](https://codeforces.com/contest/1612/problem/C) | [GNU C++17](./codeforces/1612/C.cpp) | `binary search` `math` `*1300` | Nov/22/2021 16:29 | 
