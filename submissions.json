@@ -2836,5 +2836,22 @@
       "*1100"
     ],
     "timestamp": "Nov/23/2021 20:32"
+  },
+  "CF140808967": {
+    "contest_id": 1622,
+    "language": "GNU C++17",
+    "path": "codeforces\\1622\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Set or Decrease",
+    "problem_url": "https://codeforces.com/contest/1622/problem/C",
+    "submission_id": "CF140808967",
+    "submission_url": "https://codeforces.com/contest/1622/submission/140808967",
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy"
+    ],
+    "timestamp": "Dec/27/2021 21:41"
   }
 }
