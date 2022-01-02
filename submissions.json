@@ -3882,6 +3882,28 @@
     ],
     "timestamp": "Dec/27/2021 21:41"
   },
+  "CF141386469": {
+    "contest_id": 1619,
+    "language": "GNU C++17",
+    "path": "codeforces\\1619\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "MEX and Increments",
+    "problem_url": "https://codeforces.com/contest/1619/problem/E",
+    "submission_id": "CF141386469",
+    "submission_url": "https://codeforces.com/contest/1619/submission/141386469",
+    "tags": [
+      "constructive algorithms",
+      "data structures",
+      "dp",
+      "greedy",
+      "implementation",
+      "math",
+      "sortings",
+      "*1700"
+    ],
+    "timestamp": "Jan/02/2022 15:43"
+  },
   "CF141499999": {
     "contest_id": 1621,
     "language": "GNU C++17",
