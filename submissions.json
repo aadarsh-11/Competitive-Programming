@@ -4277,6 +4277,22 @@
     ],
     "timestamp": "Jan/22/2022 21:28"
   },
+  "CF147049037": {
+    "contest_id": 1635,
+    "language": "GNU C++17",
+    "path": "codeforces\\1635\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Avoid Local Maximums",
+    "problem_url": "https://codeforces.com/contest/1635/problem/B",
+    "submission_id": "CF147049037",
+    "submission_url": "https://codeforces.com/contest/1635/submission/147049037",
+    "tags": [
+      "greedy",
+      "*800"
+    ],
+    "timestamp": "Feb/20/2022 20:22"
+  },
   "CF147064233": {
     "contest_id": 1635,
     "language": "GNU C++17",
