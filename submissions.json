@@ -4277,6 +4277,21 @@
     ],
     "timestamp": "Jan/22/2022 21:28"
   },
+  "CF147281979": {
+    "contest_id": 1644,
+    "language": "GNU C++17",
+    "path": "codeforces\\1644\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Doors and Keys",
+    "problem_url": "https://codeforces.com/contest/1644/problem/A",
+    "submission_id": "CF147281979",
+    "submission_url": "https://codeforces.com/contest/1644/submission/147281979",
+    "tags": [
+      "implementation"
+    ],
+    "timestamp": "Feb/22/2022 20:09"
+  },
   "CF147291347": {
     "contest_id": 1644,
     "language": "GNU C++17",
