@@ -13,7 +13,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-280 | [D - Madoka and the Best School in Russia](https://codeforces.com/contest/1647/problem/D) | [GNU C++17](./codeforces/1647/D.cpp) | `constructive algorithms` `dp` `math` `number theory` | Mar/11/2022 21:48 | 
+281 | [D - Madoka and the Best School in Russia](https://codeforces.com/contest/1647/problem/D) | [GNU C++17](./codeforces/1647/D.cpp) | `constructive algorithms` `dp` `math` `number theory` | Mar/11/2022 21:48 | 
+280 | [C - Madoka and Childish Pranks](https://codeforces.com/contest/1647/problem/C) | [GNU C++17](./codeforces/1647/C.cpp) | `constructive algorithms` `greedy` | Mar/11/2022 20:47 | 
 279 | [D - Repetitions Decoding](https://codeforces.com/contest/1642/problem/D) | [GNU C++17](./codeforces/1642/D.cpp) | `constructive algorithms` `sortings` | Feb/23/2022 17:22 | 
 278 | [A - Hard Way](https://codeforces.com/contest/1642/problem/A) | [GNU C++17](./codeforces/1642/A.cpp) | `geometry` | Feb/23/2022 16:18 | 
 277 | [C - Great Sequence](https://codeforces.com/contest/1642/problem/C) | [GNU C++17](./codeforces/1642/C.cpp) | `greedy` `sortings` | Feb/23/2022 16:11 | 
