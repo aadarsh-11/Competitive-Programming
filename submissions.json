@@ -4421,6 +4421,22 @@
     ],
     "timestamp": "Feb/23/2022 17:22"
   },
+  "CF149272245": {
+    "contest_id": 1647,
+    "language": "GNU C++17",
+    "path": "codeforces\\1647\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Madoka and Math Dad",
+    "problem_url": "https://codeforces.com/contest/1647/problem/A",
+    "submission_id": "CF149272245",
+    "submission_url": "https://codeforces.com/contest/1647/submission/149272245",
+    "tags": [
+      "implementation",
+      "math"
+    ],
+    "timestamp": "Mar/11/2022 20:16"
+  },
   "CF149283756": {
     "contest_id": 1647,
     "language": "GNU C++17",
