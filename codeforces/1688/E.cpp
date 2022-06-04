@@ -49,13 +49,13 @@ void solve()
 	ll ans = 0, cnt = 0, sum = 0, temp = 0, t1 = 0, t2 = 0;
 	ll x1 = 0, x2 = 0, y1 = 0, y2 = 0;
 	bool flag = 0, flag1 = 0, flag2 = 0;
-	int n = 0, m = 0;
+	ll n = 0, m = 0;
 
 	//-----------------------------------------------------//
 
 	cin >> n >> m;
 
-	vi l(m);
+	vl l(m);
 	string s(m, '0');
 
 	fo(i, m)
