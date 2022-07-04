@@ -5217,6 +5217,23 @@
     ],
     "timestamp": "Jun/28/2022 22:13"
   },
+  "CF162792338": {
+    "contest_id": 1699,
+    "language": "GNU C++17",
+    "path": "codeforces\\1699\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "The Third Problem",
+    "problem_url": "https://codeforces.com/contest/1699/problem/C",
+    "submission_id": "CF162792338",
+    "submission_url": "https://codeforces.com/contest/1699/submission/162792338",
+    "tags": [
+      "combinatorics",
+      "math",
+      "two pointers"
+    ],
+    "timestamp": "Jul/04/2022 21:10"
+  },
   "CF86636294": {
     "contest_id": 1374,
     "language": "GNU C++14",
