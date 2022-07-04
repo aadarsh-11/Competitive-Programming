@@ -5217,6 +5217,24 @@
     ],
     "timestamp": "Jun/28/2022 22:13"
   },
+  "CF162772534": {
+    "contest_id": 1699,
+    "language": "GNU C++17",
+    "path": "codeforces\\1699\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Almost Ternary Matrix",
+    "problem_url": "https://codeforces.com/contest/1699/problem/B",
+    "submission_id": "CF162772534",
+    "submission_url": "https://codeforces.com/contest/1699/submission/162772534",
+    "tags": [
+      "2-sat",
+      "bitmasks",
+      "constructive algorithms",
+      "matrices"
+    ],
+    "timestamp": "Jul/04/2022 20:25"
+  },
   "CF162792338": {
     "contest_id": 1699,
     "language": "GNU C++17",
